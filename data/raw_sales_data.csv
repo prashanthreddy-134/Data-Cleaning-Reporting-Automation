@@ -1,0 +1,22 @@
+Order_ID,Order_Date,Customer_Name,Product,Category,Region,Quantity,Unit_Price,Sales,Payment_Method
+ORD001,2026-01-05,Rahul,Wireless Mouse,Electronics,North,2,799,1598,UPI
+ORD002,2026-01-08,Priya,Keyboard,electronics,South,1,1299,1299,Credit Card
+ORD003,2026-01-12,,Laptop Stand,Office,NORTH,3,899,2697,upi
+ORD004,2026-01-15,Arun,USB Cable, ELECTRONICS ,south,5,299,1495,Cash
+ORD005,2026-02-02,Meena,Notebook,Stationery,East,10,99,990,UPI
+ORD006,2026-02-07,Kiran,Desk Lamp,Office,west,2,699,1398,Credit Card
+ORD006,2026-02-07,Kiran,Desk Lamp,Office,west,2,699,1398,Credit Card
+ORD007,2026-02-14,Sneha,Pen Set,stationery,East,4,149,596,upi
+ORD008,2026-02-18,Ravi,Monitor,electronics,North,1,8999,8999,Debit Card
+ORD009,2026-03-03,Anil,Office Chair,OFFICE,West,1,5499,5499,Credit Card
+ORD010,2026-03-08,Divya,Notebook,Stationery,,6,99,594,UPI
+ORD011,2026-03-11,Varun,Keyboard,Electronics,South,-1,1299,-1299,Cash
+ORD012,2026-03-19,,Webcam,electronics,South,2,,0,UPI
+ORD013,2026-03-25,Neha,Headphones, Electronics,North,2,1999,3998,upi
+ORD014,2026-04-02,Rohan,Notebook,Stationery,East,8,99,792,Cash
+ORD015,2026-04-10,Swathi,Desk Lamp,Office,West,3,699,2097,Credit Card
+ORD016,2026-04-14,Ajay,Mouse,Electronics,North,2,599,1198,UPI
+ORD017,2026-04-20,Keerthi,Pen Set,Stationery,east,5,149,745,upi
+ORD018,2026-05-01,Mahesh,Monitor,Electronics,North,2,8999,17998,Credit Card
+ORD019,2026-05-06,Anusha,USB Cable,electronics,South,4,299,1196,Cash
+ORD020,2026-05-13,Vijay,Office Chair,Office,West,2,5499,10998,UPI

@@ -1,0 +1,17 @@
+DATA CLEANING SUMMARY
+======================
+Rows before cleaning: 21
+Duplicate rows removed: 1
+Missing cells before cleaning: 4
+Rows after cleaning: 20
+Missing cells after cleaning: 0
+Total sales after cleaning: 68183.0
+
+REPORT:
+reports/sales_report.xlsx
+
+VISUAL CHARTS:
+reports/charts/monthly_sales.png
+reports/charts/category_sales.png
+reports/charts/region_sales.png
+reports/charts/top_products.png
